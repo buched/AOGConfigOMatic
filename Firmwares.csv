@@ -2,6 +2,7 @@
 All-in-one (for v4.x),https://raw.githubusercontent.com/buched/AOGConfigOMatic/main/Firmwares/AOG-4.1.hex
 All-in-one (for v4.x) running average,https://raw.githubusercontent.com/buched/AOGConfigOMatic/main/Firmwares/AOG-4.1-running-average.hex
 All-in-one-ecu (buched),https://raw.githubusercontent.com/buched/AOGConfigOMatic/main/Firmwares/ecu.hex
+All-in-one-ecu-keya running average (buched),https://raw.githubusercontent.com/buched/AOGConfigOMatic/main/Firmwares/teensy_v4_1_ecu_keya_running_average.hex
 CommonRail's CANBUS,https://raw.githubusercontent.com/lansalot/AOGConfigOMatic/main/Firmwares/AOG-CommonRail-CANBUS.hex
 CommonRail's CANBUS running average,https://raw.githubusercontent.com/buched/AOGConfigOMatic/main/Firmwares/Teensy4_1UDP_SteerReadyCAN_running_average.hex
 CommonRail's CANBUS (adapted for all-in-one board),https://raw.githubusercontent.com/lansalot/AOGConfigOMatic/main/Firmwares/CANBUS-All-In-One.hex
